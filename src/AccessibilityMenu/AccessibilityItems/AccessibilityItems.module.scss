@@ -1,0 +1,15 @@
+.root {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  align-content: center;
+  justify-content: center;
+}
+
+.accessibilityItemTitle {
+  margin: 0;
+  margin-top: 4px;
+}
+
+.card {
+  border-radius: 0 !important;
+}
